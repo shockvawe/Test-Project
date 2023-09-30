@@ -1,0 +1,14 @@
+
+TestNG advantages:
+
+
+1.TestNg is majrorly used for reporting purpose, unlike other frameworks testNg reports are in detailed log and with each and every information we provide 
+
+2. using of main method is not necessary in Testng
+
+3.Unlike Junit Testng annotations are easy to understand and use too.
+
+4. Parallel execution is possiblein TestNg
+
+5. Using data providers we can perforn datadriven framework with both hard coded or through excel file.
+
