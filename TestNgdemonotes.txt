@@ -13,3 +13,5 @@ TestNG advantages:
 5. Using data providers we can perforn datadriven framework with both hard coded or through excel file.
 
 uncaught exceptions are handled by testNg without terminating the tests and these exceptions are reported in failed test cases 
+
+Cross browser testing is possible in testNg (i.e) we can execute multiple test cases on multiple browsers 
