@@ -15,3 +15,7 @@ TestNG advantages:
 uncaught exceptions are handled by testNg without terminating the tests and these exceptions are reported in failed test cases 
 
 Cross browser testing is possible in testNg (i.e) we can execute multiple test cases on multiple browsers 
+
+We can use methods like groups, depends on groups and depends on methods to run the test case in groups to perform testing like regression, smoke and sanity
+
+practising testNg programs daily would build confidence 
